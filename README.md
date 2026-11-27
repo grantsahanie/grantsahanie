@@ -1,3 +1,8 @@
 ## About Me
 I am a data analytics student at Franklin University with a diverse background in luxury hospitality operations. I have worked in the Food and Beverage department at the resort's main restaurant, while also gaining experience in banquets and front desk. This hands-on experience taught me how seasonal demand swings, weekend wedding peaks and quiet winter months directly shape staffing, purchasing and maintenance decisions.
 That operational insight inspired me to pursure analytics, focusing on time series forecasting and business intelligence. For my capstone, i am collabotationg with a colleague whose background is primarily in front desk and banquets to forecast monthly hotel demand across 185 Swiss municipalities. Together, we are comparing statistical and machine learning models by destination type to see how cities and alpine resorts recover from shocks differently. i aim to bridge operational intuition with evidence based forecasting so hospitality leaders can plan capacity, staffing and marketing with measured confidence. 
+
+
+[View my Capstone Story Outline here](capstone.md)
+
+[View my Technical Artifacts here](artifacts.md)
